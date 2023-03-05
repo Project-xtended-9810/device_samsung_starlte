@@ -38,6 +38,7 @@ XTENDED_BUILD_TYPE := UNOFFICIAL
 TARGET_FACE_UNLOCK_SUPPORTED := true
 TARGET_SHIP_GCAM_GO := true
 WITH_GAPPS := true
+TARGET_INCLUDE_EXTRA_GAPPS := true
 
 ## Device identifier, this must come after all inclusions
 PRODUCT_NAME := xtended_starlte
